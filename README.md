@@ -4,7 +4,7 @@ Koopman Spectral analysis is an emerging non linear data analysis method which i
 
 <img src="./mimages.png">
 
-Koopman operator idea is very much similar to the Kernel methods. Kernel methods are used to linearly classify data by projecting it to higher dimension. Similarly, for any non-linear dynamics, there exists some state-space where the dynamics behave linearly. One small example is given in the above figure. One of the powerful practical use of Koopman operator is Dynamic Mode Decomposition(DMD) [1].
+Koopman operator is very much similar to the Kernel methods. Kernel methods are used to linearly classify data by projecting it to higher dimension. Similarly, for any non-linear dynamics, there exists some state-space where the dynamics behave linearly. One small example is given in the above figure. One of the powerful practical use of Koopman operator is Dynamic Mode Decomposition(DMD) [1].
 
 ## Practical Koopman Operator-DMD
 

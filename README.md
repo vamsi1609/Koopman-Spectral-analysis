@@ -8,4 +8,4 @@ Koopman operator idea is very much similar to the Kernel methods. For any non li
 
 ## Practical Koopman Operator-DMD
 
-Dynamic Mode Decomposition is a daa driven method used in many areas like power grids, epidemiology, fluid dynamics etc. 
+DMD is a data-driven method used in many areas like power grids, epidemiology, fluid dynamics etc. DMD is capable of capturing dynamics of the system using basic linear algebra concepts. This makes DMD a simple tools to understand the importance of Koopman operator.   

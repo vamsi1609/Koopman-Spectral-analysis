@@ -1,4 +1,4 @@
-# Koopman Spectral analysis
+# Koopman Spectral analysis(Work in progress)
 ## Introduction
 Koopman Spectral analysis is an emerging non linear data analysis method which is used for Sequence modeling. After thoroughy going through several research work, there has been an attempt to give an idea about the Koopman analysis in a simple way. 
 
